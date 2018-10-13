@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-pruyesh jain
+priyesh jain
 Use the left arrow to go back!
